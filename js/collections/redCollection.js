@@ -1,0 +1,1 @@
+var RedCollection = Backbone.Collection.extend();
